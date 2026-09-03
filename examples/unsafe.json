@@ -1,0 +1,11 @@
+{
+  "aws": {},
+  "kubernetes": {},
+  "streaming": {},
+  "mlops": {},
+  "api": {},
+  "ai_agents": {},
+  "observability": {},
+  "reliability": {},
+  "iac_cicd": {}
+}
